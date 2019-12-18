@@ -7,7 +7,7 @@ from typing import Any
 def push(elem: Any) -> None:
 	"""
 	Operation that add element to stack
-
+	sdfghj
 	:param elem: element to be pushed
 	:return: Nothing
 	"""
